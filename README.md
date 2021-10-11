@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -46,7 +46,8 @@ h1{Background: palegreen; border: solid black 2px; width: 75%;}
 .image{
 Width: 10%;
 Height: 10%;
-Float: left;
+Float: right;
+ margin-right: 20%;
 }
 
 .returnToMonke{
@@ -61,7 +62,6 @@ Text-align:left;
 Position: relative; left: -500px;
 Position: relative; top: 100px;
 Border: solid black 2px;
-Background: beige;
 Padding: 2px;
 }
 
